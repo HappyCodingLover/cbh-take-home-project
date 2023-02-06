@@ -50,4 +50,5 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
                 row.shift_logs += time
                 row.facility_id.push(shift.facility_id)
           rows.append(row)
+          rows sort by logs
    Output: Reports
